@@ -8,9 +8,8 @@ public class abc {
 		for(int i=0; i<10;  i++)
 		{
 			System.out.println(i);
-
-
 			System.out.println("hey");
+			System.out.println("what is up??");
 			
 
         
