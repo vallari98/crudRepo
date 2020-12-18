@@ -9,7 +9,8 @@ public class abc {
 		{
 			System.out.println(i);
 			System.out.println("hi");
-			System.out.println("bonjour!!");
+          System.out.println("namaskarrr!!");
+
 			
 		}
 
